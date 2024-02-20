@@ -3,7 +3,7 @@
 
 # Tic Tac Toe -peli JavaScriptillä
 
-Tämä on yksinkertainen Tic Tac Toe -peli, joka on toteutettu JavaScriptillä. Peli on suunniteltu toimimaan selaimessa ja tarjoamaan käyttäjille mahdollisuuden pelata klassista Tic Tac Toe -peliä.
+Tämä on Tic Tac Toe -peli, joka on toteutettu JavaScriptillä. Peli on suunniteltu toimimaan selaimessa ja tarjoamaan käyttäjille mahdollisuuden pelata klassista Tic Tac Toe -peliä. 
 
 ## Kuinka pelata
 
@@ -18,8 +18,8 @@ Tämä on yksinkertainen Tic Tac Toe -peli, joka on toteutettu JavaScriptillä. 
 
 Tämä projekti käyttää seuraavia teknologioita:
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## Tekijä
