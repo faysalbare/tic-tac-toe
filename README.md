@@ -1,6 +1,4 @@
 # tic-tac-toe
-Tässä on yksinkertainen Tic Tac Toe -peli JavaScriptillä. Alla oleva README-tiedosto antaa yleiskuvan projektista ja ohjeet sen käyttämiseen.
-
 ---
 
 # Tic Tac Toe -peli JavaScriptillä
