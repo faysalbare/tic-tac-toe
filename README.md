@@ -11,7 +11,7 @@ Tämä on Tic Tac Toe -peli, joka on toteutettu JavaScriptillä. Peli on suunnit
 
 ## Kuinka pelata
 
-1. Avaa `index.html` selaimessasi.
+1. Avaa yllä olevasta linkistä.
 2. Peli alkaa automaattisesti.
 3. Vuorollasi klikkaa tyhjää ruutua pelilaudalla.
 4. Vuorottelet vastustajan kanssa, joka on tietokone tässä yksinkertaisessa toteutuksessa.
