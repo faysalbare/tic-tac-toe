@@ -27,5 +27,3 @@ Tämä projekti käyttää seuraavia teknologioita:
 Tämän projektin on toteuttanut Faysal Bare.
 
 ---
-
-Tämä README antaa lyhyen kuvauksen projektista, sen toiminnasta ja kuinka sitä käytetään. Voit mukauttaa README-tiedoston tarpeidesi mukaan ja lisätä lisätietoja projektisi rakenteesta, käytetyistä tekniikoista ja muista relevantteista tiedoista.# tic-tac-toe
